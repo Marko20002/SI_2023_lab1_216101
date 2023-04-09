@@ -1,0 +1,36 @@
+commit 370aa84c9afa1cd987879b7dd2d5699513ca2cc5 (HEAD -> master, origin/master, bug3)
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:56:04 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9047824f919a0116c958fef120eeb157ea8561a0
+Merge: ce9eb84 f032d95
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:32:32 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f032d958ea62fbacece227a77b9d43eed9977c8f (origin/bug2, bug2)
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:28:24 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit ce9eb84afc594f5b54349bee4ad3bec2eca0fcd0 (origin/bug1, bug1)
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:26:23 2023 +0200
+
+    Fix wrong loop for reading
+
+commit d50641b76c181d2fe413b7529cffa38bc0532b3d
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:07:31 2023 +0200
+
+    Add java class
+
+commit 32ddd7fda0b9c3206766c38339eae1fd02749747
+Author: Marko2002 <stojanovskimarko.02@gmail.com>
+Date:   Sun Apr 9 21:05:06 2023 +0200
+
+    initial commit
